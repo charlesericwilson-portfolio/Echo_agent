@@ -73,6 +73,7 @@ This log documents the beginning of the Echo agent project — starting from the
 - https://www.grok.com Supergrok account
 
 **Screenshots:**
+- [Screenshot of append file]
 ![robots](https://github.com/charlesericwilson-portfolio/Echo_agent/blob/main/Echo_project/screenshots/append_file.png
 )
 - [Screenshot of nmap working]
