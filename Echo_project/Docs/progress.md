@@ -73,7 +73,8 @@ This log documents the beginning of the Echo agent project — starting from the
 - https://www.grok.com Supergrok account
 
 **Screenshots:**
-- [Screenshot of the first successful whoami command]
+![robots](https://github.com/charlesericwilson-portfolio/Echo_agent/blob/main/Echo_project/screenshots/append_file.png
+)
 - [Screenshot of nmap working]
 - [screenshot of Read files]
 - [acreenshot of append file]
