@@ -74,22 +74,22 @@ This log documents the beginning of the Echo agent project — starting from the
 
 **Screenshots:**
 - [Screenshot of whoami file]
-![robots](https://github.com/charlesericwilson-portfolio/Echo_agent/blob/main/Echo_project/screenshots/whoami.png
+![whoami](https://github.com/charlesericwilson-portfolio/Echo_agent/blob/main/Echo_project/python_wrapper/screenshots/whoami.png
 )
 - [Screenshot of nmap working]
-![robots](https://github.com/charlesericwilson-portfolio/Echo_agent/blob/main/Echo_project/screenshots/nmap.png
+![nmap](https://github.com/charlesericwilson-portfolio/Echo_agent/blob/main/Echo_project/python_wrapper/screenshots/nmap.png
 )
 - [screenshot of Read files]
-![robots](https://github.com/charlesericwilson-portfolio/Echo_agent/blob/main/Echo_project/screenshots/read_file.png
+![read](https://github.com/charlesericwilson-portfolio/Echo_agent/blob/main/Echo_project/python_wrapper/screenshots/read_file.png
 )
 - [acreenshot of append file]
-![robots](https://github.com/charlesericwilson-portfolio/Echo_agent/blob/main/Echo_project/screenshots/append_file.png
+![append](https://github.com/charlesericwilson-portfolio/Echo_agent/blob/main/Echo_project/python_wrapper/screenshots/append_file.png
 )
 - [screenshot of ls output]
-![robots](https://github.com/charlesericwilson-portfolio/Echo_agent/blob/main/Echo_project/screenshots/ls_-la.png
+![ls](https://github.com/charlesericwilson-portfolio/Echo_agent/blob/main/Echo_project/python_wrapper/screenshots/ls_-la.png
 )
 - [screenshot of tool chaining]
-![robots](https://github.com/charlesericwilson-portfolio/Echo_agent/blob/main/Echo_project/screenshots/task_chaining.png
+![tool_chainiing](https://github.com/charlesericwilson-portfolio/Echo_agent/blob/main/Echo_project/python_wrapper/screenshots/tool_chain.png
 )
 
 **Lessons Learned:**
@@ -98,5 +98,6 @@ This log documents the beginning of the Echo agent project — starting from the
 - Safety deny list is important even in the early version.
 
 **Next Steps:**
+- Port this to rust check it out here [Rust port](https://github.com/charlesericwilson-portfolio/Echo_agent/tree/main/Echo_project/echo_rust_wrapper)
 - Experiment with more complex architectures (persistent sessions, heartbeat, orchestrator)
 - Document everything as we go
