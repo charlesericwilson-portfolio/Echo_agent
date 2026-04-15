@@ -23,4 +23,4 @@ cargo build --release
 ./target/release/echo_rust_wrapper
 ```
 
-Build direction is moving toward this https://github.com/charlesericwilson-portfolio/Echo_agent_proxy
+Build direction is moving toward this [Echo_agent_proxy](https://github.com/charlesericwilson-portfolio/Echo_agent_proxy)
